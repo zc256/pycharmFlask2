@@ -1,5 +1,5 @@
 # Project Description
-This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, and MySQL
+This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, and MySQL. A video is included in the screenshots to show that the delete functionality works.
 # MySQL Database
 ![mysql_pycharm_db_manager](screenshots/db.jpg)
 # Postman Screenshot
