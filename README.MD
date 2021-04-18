@@ -10,3 +10,13 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ![formattedIndex](screenshots/formattedIndex.jpg)
 # Formatted Postman Output
 ![formattedPostman](screenshots/formattedPostman.jpg)
+# Add New Entry
+![newEntry](screenshots/add.jpg)
+# View New Entry
+![editEntry](screenshots/success.jpg)
+# View Edit Screen of New Entry
+![viewEditEntry](screenshots/success2.jpg)
+# Edit New Value (Capital Status: None --> NA)
+![newEdit](screenshots/edit.jpg)
+# View Final Edit
+![finalEdit](screenshots/success3.jpg)
