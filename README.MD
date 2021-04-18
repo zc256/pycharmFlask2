@@ -20,3 +20,5 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ![newEdit](screenshots/edit.jpg)
 # View Final Edit
 ![finalEdit](screenshots/success-3.jpg)
+# Postman - New Entry
+![postmanNewEntry](screenshots/postmanNewEntry.jpg)
